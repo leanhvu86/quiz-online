@@ -1,0 +1,800 @@
+{
+    "id": 4,
+    "name": "Đề Công nghệ",
+    "description": "Đề ôn tập công nghệ kỳ 1- đề số 1",
+    "image": "./image/cong-nghe.png",
+    "questions": [
+        {
+            "id": 1010,
+            "name": ". Nhà thường gồm các phần chính là",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "A.  Móng nhà, sàn nhà, khung nhà, tường, cửa ra vào, cửa sổ.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "B.  Móng nhà, sàn nhà, khung nhà, tường, mái nhà, cửa sổ.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "C. Móng nhà, sàn nhà, khung nhà, tường, mái nhà, cửa ra vào.c",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "D. Móng nhà, sàn nhà, khung nhà, tường, mái nhà, cửa ra vào, cửa sổ.",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": ". Nhóm thực phẩm giàu vitamin có vai trò đối với cơ thể con người như thế nào?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "   A. Là thành phần dinh dưỡng để cấu trúc cơ thể và giúp cơ thể phát triển tốt.                             ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "   B. Có vai trò tăng cường hệ miễn dịch, tham gia vào quá trình chuyển hóa các chất hữu cơ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "   C. Giúp cho sự hoạt động của cơ bắp.                             ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "   D. Giúp cho sự phát triển của xương.                   ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Đặc điểm an ninh, an toàn của ngôi nhà thông minh thể hiện ở đặc điểm sau:",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "A. Các thiết bị trong ngôi nhà thông minh có thể điều khiển từ xa thông qua các ứng dụng được cài đặt trên điện thoại thông minh, máy tính bảng có kết nối internet                               ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "   B. Các thiết bị được lắp đặt sẽ giúp cảnh báo tới chủ nhà các tình huống gây mất an ninh, an toàn                             ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "C. Các thiết bị được lắp đặt sẽ giúp cảnh báo tới chủ nhà các tình huống không gây mất an ninh, an toàn                             ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "   D. Các thiết bị sẽ điều khiển, giám sát việc sử dụng hợp lý các nguồn năng lượng trong ngôi nhà",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1013,
+            "name": "Nhà thường được phân chia thành các khu vực chức năng  như:",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "A. Khu sinh hoạt chung, khu vực nghỉ ngơi, khu vực nấu ăn, khu vực vệ sinh",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "    B. Khu sinh hoạt chung, khu vực nghỉ ngơi, khu vực thờ cúng, khu vực nấu ăn.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "    C. Khu sinh hoạt chung, khu vực thờ cúng, khu vực nấu ăn, khu vực vệ sinh",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": " D. Khu sinh hoạt chung, khu vực nghỉ ngơi, khu vực thờ cúng, khu vực nấu ăn, khu vực vệ sinh.",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1014,
+            "name": "Vì sao nước không phải là chất dinh dưỡng nhưng lại có vai trò quan trọng đối với đời sống con người?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Nước là môi trường chuyển hóa và trao đổi chất của cơ thể, giúp cơ thể điều hòa chế độ nhiệt.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Nước là thành phần chủ yếu của cơ thể, giúp chuyển hóa và trao đổi chất của cơ thể, giúp cơ thể điều hòa chế độ nhiệt",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Nước là thành phần chủ yếu của cơ thể, giúp cơ thể điều hòa nhiệt   ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Đông Đông NamNước là thành phần chủ yếu của cơ thể, giúp chuyển hóa và trao đổi chất của cơ thể.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1015,
+            "name": "Ngôi nhà thông minh thường lắp đặt các hệ thống điều khiển tự động, bán tự động như:",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Nhóm hệ thống an ninh, an toàn; nhóm hệ thống chiếu sáng; nhóm hệ thống kiểm soát nhiệt độ; nhóm hệ thống giải trí.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Nhóm hệ thống an ninh, an toàn; nhóm hệ thống chiếu sáng; nhóm hệ thống giải trí; nhóm hệ thống điều khiển các thiết bị gia dụng.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Nhóm hệ thống an ninh, an toàn; nhóm hệ thống chiếu sáng; nhóm hệ thống kiểm soát nhiệt độ; nhóm hệ thống giải trí; nhóm hệ thống điều khiển các thiết bị gia dụng.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Nhóm hệ thống an ninh, an toàn; nhóm hệ thống chiếu sáng; nhóm hệ thống kiểm soát nhiệt độ; nhóm hệ thống điều khiển các thiết bị gia dụng.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1016,
+            "name": "Thịt lợn, thịt gà, thịt bò là nhóm thực phẩm giàu",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Chất béo",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Chất đạm",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Chất đường bột",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Vitamin và chất khoáng",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1017,
+            "name": "Sử dụng vật liệu nào sau đây để lợp mái nhà?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Gạch ống",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Xi măng",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Ngói",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Cát",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1018,
+            "name": "Các loại thực phẩm như: Trứng, cà rốt, dầu cá cung cấp chủ yếu vitamin gì?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Vitamin C",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Vitamin A",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Vitamin E",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Vitamin D",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1019,
+            "name": "Tại sao thiết kế là bước chuẩn bị quan trọng trước khi nhà được thi công?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Giúp các bước hoàn thiện được tiện lợi và tiết kiệm được chi phí..  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Giúp cung cấp thông tin để chuẩn bị vật liệu và kinh phí.  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Giúp chủ nhà hình dung được ngôi nhà sau khi xây dựng, giúp cung cấp thông tin để chuẩn bị vật liệu và kinh phí.   ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Góp phần tạo nên không gian sống với đầy đủ công năng sử dụng và tính thẩm mỹ của ngôi nhà.    ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1020,
+            "name": "Chúng ta có thể thay thế thịt lợn trong bữa ăn bằng thực phẩm nào dưới đây?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Gạo",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Tôm",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Cà rốt",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Bánh kẹo",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1021,
+            "name": "Nhà nổi thường có ở khu vực nào dưới đây?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Đồng bằng sông Cửu long                      ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Tây Bắc                                                  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Tây Nguyên",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Trung du Bắc Bộ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1022,
+            "name": "Các thiết bị trong ngôi nhà thông minh có thể được điều khiển từ xa thông qua các ứng dụng cài đặc trên các thiết bị như ngôi nhà thông minh, máy tính bảng.. là đặc điểm nào của ngôi nhà thông minh",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "An toàn                    ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Tiện ích                                                ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "An ninh",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Tiết kiệm năng lượng",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1023,
+            "name": "Để tạo thành bê tông, người ta sử dụng hỗn hợp vật liệu nào?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": ". Cát, thép, xi măng               ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Đá nhỏ, xi măng, nước                                                                     ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Cát, xi măng, nước                                          ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": ". Đá nhỏ, cát, nước   ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1024,
+            "name": "Thép được sử dụng như thế nào trong xây dựng nhà ở?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": ". Làm khung nhà, mái nhà, sàn nhà; giá đỡ, nội thất; vật liệu cách nhiệt        ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Làm tường nhà                                                                  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Làm tường nhà, mái nhà                                   ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Làm khung nhà, cột nhà                ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1025,
+            "name": "Nhà ở có vai trò vật chất vì",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Nhà ở là nơi để mọi người cùng nhau tạo niềm vui, cảm xúc tích cực  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Nhà ở là nơi đem đến cho con người cảm giác thân thuộc                                        ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Nhà ở là nơi để con người nghỉ ngơi, giúp bảo vệ con người trước tác động của thời tiết                            ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Nhà ở là nơi đem đến cho con người cảm giác riêng tư.        ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1026,
+            "name": "Nhóm thực phẩm giàu chất đạm có vai trò đối với cơ thể con người như thế nào",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "là thành phần dinh dưỡng để cấu trúc cơ thể và giúp cơ thể phát triển tốt  ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Có vai trò tăng cường hệ miễn dịch, tham gia vào quá trình chuyển hóa các chất hữu cơ                                          ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Giúp cho sự hoạt động của cơ bắp                            ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Giúp cho sự phát triển của xương                         ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1027,
+            "name": "Ngôi nhà thông minh là ngôi nhà được trang bị hệ thống nào?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "điều khiển tự động và bán tự động cho các thiết bị ngoài công sở ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "điều khiển  bán tự động cho các thiết bị trong gia đình                                       ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "điều khiển tự động cho các thiết bị trong gia đình                  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "điều khiển tự động và bán tự động cho các thiết bị trong gia đình                    ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1028,
+            "name": "Thiết bị trong ngôi nhà thông minh được điều khiển từ xa bởi các thiết bị như:",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Điện thoại, máy tính bảng không có kết nối Internet .",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Điện thoại thông minh, máy tính bảng có kết nối internet                             ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Điều khiển, máy tính không có kết nối Internet .             ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": " Điện thoại đời cũ, máy tính bảng có kết nối internet .               ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1029,
+            "name": "Nguyên tắc hoạt động của hệ thống trong  ngôi  nhà thông minh là:",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "xử lý- Chấp hành- Nhận lệnh- Hoạt động",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "nhận lệnh- Xử lý- Chấp hành- Hoạt động.                   ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "hoạt động- Xử lý- Chấp hành- Nhận lệnh            ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": " nhận lệnh- Xử lý- Chấp hành            ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1030,
+            "name": "Máy thu hình tự động mở kênh truyền hình yêu thích, là hệ thống điều khiển nào trong ngôi nhà thông minh?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Nhóm hệ thống camera giám sát an ninh",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Nhóm hệ thống giải trí thông minh              ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Nhóm hệ thống chiếu sáng thông minh          ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Nhóm hệ thống an ninh, an toàn         ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1031,
+            "name": "Vật liệu xây dựng ảnh hưởng đến mặt nào của công trình xây dựng?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Tuổi thọ, chất lượng.                       ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Chất lượng, tính thẩm mỹ        ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Tuổi thọ, tính thẩm mỹ                   ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Tính thẩm mỹ, tuổi thọ, chất lượng         ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        }
+    ]
+}

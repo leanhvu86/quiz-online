@@ -18,10 +18,11 @@ class App extends Component {
       // { id: 'data/javascript.json', name: 'Javascript' },
       // { id: 'data/pmone.json', name: 'PM one' },
       // { id: 'data/aspnet.json', name: 'Asp.Net' },
-      // { id: 'data/csharp.json', name: 'C Sharp' },
-      { id: 'data/de-dia.json', name: 'Địa lý' }
+      { id: 'data/lich-su.json', name: 'Lịch sử' },
+      { id: 'data/de-dia.json', name: 'Địa lý' },
+      { id: 'data/cong-nghe.json', name: 'Công nghệ' }
     ],
-    quizId: 'data/de-dia.json'
+    quizId: 'data/lich-su.json'
   };
 
   pager = {

@@ -1,6 +1,6 @@
 {
     "id": 4,
-    "name": "Đề địa",
+    "name": "Đề Khoa học tự nhiên",
     "description": "Đề ôn tập địa kì 1- đề số 1",
     "image": "./image/dia-li.jpg",
     "questions": [
@@ -373,7 +373,7 @@
         },
         {
             "id": 1020,
-            "name": "Kí hiệu đường trong các hình sau là:",
+            "name": "Kí hiệu đường trong các hình sau là:ky-hieu.png",
             "questionTypeId": 1,
             "image": "./image/ky-hieu.png",
             "options": [
