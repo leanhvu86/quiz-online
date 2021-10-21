@@ -6,6 +6,11 @@
     margin-left: 10px;
 }
 
+.image-quiz{
+    margin-bottom: 20px;
+    max-height: 300px;
+    image-rendering: crisp-edges;
+}
 .option {
     background-color: #cadaee;
     cursor: pointer;

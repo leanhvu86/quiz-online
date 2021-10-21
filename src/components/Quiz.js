@@ -57,8 +57,8 @@ class Quiz extends Component {
                     <div>
                         <hr />
                         <button id="quiz" className="btn btn-info" onClick={this.setMode}>Quiz</button>
-                        <button id="review" className="btn btn-info" onClick={this.setMode}>Review</button>
-                        <button id="submit" className="btn btn-primary" onClick={this.setMode}>Submit Quiz</button >
+                        <button id="review" className="btn btn-info" onClick={this.setMode}>Kiểm tra</button>
+                        <button id="submit" className="btn btn-primary" onClick={this.setMode}>Hoàn thành</button >
                     </div >}
             </div>
         )

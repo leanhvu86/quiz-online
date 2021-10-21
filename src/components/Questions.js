@@ -21,6 +21,7 @@ class Questions extends Component {
     }
 
     render() {
+        let standardImage=this.props.quiz.image;
         let questions = (this.props.quiz.questions) ?
             this.props.quiz.questions.slice(this.props.pager.index, this.props.pager.index + this.props.pager.size) : [];
         return (
@@ -31,6 +32,7 @@ class Questions extends Component {
                     <div key={q.id}>
                         <div className="badge badge-info">Question {this.props.pager.index + 1} of {this.props.pager.count}.</div>
                         <h3 className="font-weight-normal">{this.props.pager.index + 1}. <span>{q.name}</span></h3>
+                        <img className="image-quiz" src={q.image===undefined?standardImage:q.image} style={{border:'none',width:'50%',marginLeft:'20%',height:'auto'}}/>
                         <div className="row text-left options">
                             {
                                 q.options.map(option =>

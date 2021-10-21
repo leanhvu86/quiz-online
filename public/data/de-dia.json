@@ -1,0 +1,412 @@
+{
+    "id": 4,
+    "name": "Đề địa",
+    "description": "Đề ôn tập địa kì 1- đề số 1",
+    "image": "./image/dia-li.jpg",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Kinh tuyến Tây là:",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "những kinh tuyến nằm bên trái kinh tuyến gốc",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "những kinh tuyến nằm bên phải kinh tuyến gốc",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "những vòng tròn nằm bên trên vĩ tuyến gốc",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "những vòng tròn nằm bên dưới  vĩ tuyến gốc",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Các đường vĩ tuyến có độ dài như thế nào?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "giảm dần từ xích đạo về 2 cực",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Giảm dần từ cực về xích đạo",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Bằng nhau",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Giảm dần từ tây sang đông",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Cho biết nếu vẽ các đường kinh tuyến, vĩ tuyến cách nhau 10 thì trên quả địa cầu có bao nhiêu kinh tuyến?",
+            "questionTypeId": 1,
+            "image": "./image/dia-li.jpg",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "360",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "181",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "180",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "90",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1013,
+            "name": "Điểm A có tọa độ địa lý: A(200T, 120B). Vậy A đi qua kinh độ nào?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "3220Đ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "200T",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "120B",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "80B",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1014,
+            "name": "Xác định hướng còn thiếu trên sơ đồ:",
+            "questionTypeId": 1,
+            "image": "./image/huong.png",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Tây Nam",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Đông Bắc",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Đông Nam",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Đông Đông Nam",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1015,
+            "name": "Tỉ lệ bản đồ là gì?",
+            "questionTypeId": 1,
+            "image": "./image/dia-li.jpg",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Là con số qui ước trên mỗi bản đồ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Cho biết mức độ thu nhỏ độ dài giữa các đối tượng trên bản đồ so với thực tế là bao nhiêu",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Là một yếu tố giúp học sinh khai thác tri thức địa lí trên bản đồ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Cho biết mức độ phóng to độ dài giữa các đối tượng trên bản đồ so với thực tế là bao nhiêu",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1016,
+            "name": "Tỉ lệ bản đồ có mấy loại?",
+            "questionTypeId": 1,
+            "image": "./image/dia-li.jpg",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "4",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "3",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "2",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1017,
+            "name": "Hai địa điểm có khoảng cách thực tế là 25 km, thì trên bản đồ có tỉ lệ \n1 : 300 000, khoảng cách giữa hai địa điềm đó là bao nhiêu?\n",
+            "questionTypeId": 1,
+            "image": "./image/dia-li.jpg",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "8,3 cm",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "6,3 cm",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "9,3 cm",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "7,3 cm",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1018,
+            "name": "Kí hiệu bản đồ dùng để:",
+            "questionTypeId": 1,
+            "image": "./image/dia-li.jpg",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Thể hiện các đối tượng địa lí trên bản đồ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Xác định phương hướng trên bản đồ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Biết tỉ lệ của bản đồ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Xác định tọa độ địa lí trên bản đồ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1019,
+            "name": "Để thể hiện một nhà máy trên bản đồ người ta sử dụng dạng  kí hiệu nào?",
+            "questionTypeId": 1,
+            "image": "./image/dia-li.jpg",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Kí hiệu đường",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Kí hiệu diện tích",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Kí hiệu điểm",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Cả ba loại trên",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1020,
+            "name": "Kí hiệu đường trong các hình sau là:ky-hieu.png",
+            "questionTypeId": 1,
+            "image": "./image/ky-hieu.png",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Kí hiệu đường",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Kí hiệu diện tích",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Kí hiệu điểm",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Cả ba loại trên",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        }
+    ]
+}

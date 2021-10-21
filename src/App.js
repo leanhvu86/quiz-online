@@ -15,13 +15,13 @@ const mapDispatchToProps = dispatch => ({
 class App extends Component {
   state = {
     quizes: [
-      { id: 'data/javascript.json', name: 'Javascript' },
-      { id: 'data/pmone.json', name: 'PM one' },
-      { id: 'data/aspnet.json', name: 'Asp.Net' },
-      { id: 'data/csharp.json', name: 'C Sharp' },
-      { id: 'data/designPatterns.json', name: 'Design Patterns' }
+      // { id: 'data/javascript.json', name: 'Javascript' },
+      // { id: 'data/pmone.json', name: 'PM one' },
+      // { id: 'data/aspnet.json', name: 'Asp.Net' },
+      // { id: 'data/csharp.json', name: 'C Sharp' },
+      { id: 'data/de-dia.json', name: 'Địa lý' }
     ],
-    quizId: 'data/javascript.json'
+    quizId: 'data/de-dia.json'
   };
 
   pager = {
