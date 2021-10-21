@@ -20,11 +20,11 @@ function Result(props) {
                                 )
                             }
                         </div>
-                        <div className={`m-1 p-1 text-bold ${q.isCorrect ? 'text-success' : 'text-danger'}`}>Your answer is {q.isCorrect ? 'Correct' : 'Wrong'}.</div>
+                        <div className={`m-1 p-1 text-bold ${q.isCorrect ? 'text-success' : 'text-danger'}`}>Câu trả lời {q.isCorrect ? 'Đúng' : 'Sai'}.</div>
                     </div>
                 </div>
             )}
-            <h4 className="alert alert-info text-center">You may close this window now.</h4>
+            <h4 className="alert alert-info text-center">Chúc mừng bạn đã hoàn thành bài quiz.</h4>
         </div>
     )
 }

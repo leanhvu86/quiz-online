@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 class Review extends Component {
     isAnswered = (q) => {
-        return q.options.some(x => x.selected) ? 'Answered' : 'Not Answered';
+        return q.options.some(x => x.selected) ? 'Đã trả lời' : 'Chưa trả lời';
     }
 
     render() {

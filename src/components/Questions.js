@@ -51,10 +51,10 @@ class Questions extends Component {
                 )}
                 <hr />
                 <div className="text-center">
-                    {this.props.quiz.config.allowBack && <button id="first" className="btn btn-default" onClick={this.props.move}>First</button>}
-                    {this.props.quiz.config.allowBack && <button id="prev" className="btn btn-default" onClick={this.props.move}>Prev</button>}
-                    <button id="next" className="btn btn-primary" onClick={this.props.move}>Next</button>
-                    <button id="last" className="btn btn-default" onClick={this.props.move}>Last</button>
+                    {this.props.quiz.config.allowBack && <button id="first" className="btn btn-default" onClick={this.props.move}>&#60;&#60;</button>}
+                    {this.props.quiz.config.allowBack && <button id="prev" className="btn btn-default" onClick={this.props.move}>&#60;</button>}
+                    <button id="next" className="btn btn-default" onClick={this.props.move}>&#62;</button>
+                    <button id="last" className="btn btn-default" onClick={this.props.move}>&#62;&#62;</button>
                 </div>
             </div >
         )
