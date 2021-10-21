@@ -24,7 +24,7 @@ function Result(props) {
                     </div>
                 </div>
             )}
-            <h4 className="alert alert-info text-center">Chúc mừng bạn đã hoàn thành bài quiz.</h4>
+            <h4 className="alert alert-info text-center">Chúc mừng bạn đã hoàn thành bài quiz. Vui lòng chọn bài khác để tiếp tục</h4>
         </div>
     )
 }
