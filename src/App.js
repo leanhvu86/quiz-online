@@ -71,6 +71,20 @@ class App extends Component {
           </div>
         </header>
         <Quiz quiz={this.state.quiz} quizId={this.state.quizId} mode={this.state.mode} />
+        <footer>
+          <br/>
+          <div className="row">
+            <div className="col-6">
+              <h3>Quiz Kỳ I</h3>
+            </div>
+            <div className="col-6 text-right">
+              <label className="mr-1">Vui lòng chọn đề:</label>
+              <select onChange={this.onChange}>
+                {this.state.quizes.map(q => <option key={q.id} value={q.id}>{q.name}</option>)}
+              </select>
+            </div>
+          </div>
+        </footer>
       </div>
     );
   }
