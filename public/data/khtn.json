@@ -656,6 +656,587 @@
             }
         },
         {
+            "id": 1052,
+            "name": "Một chất có mùi thơm bay ra từ lọ nước hoa làm ta có thể ngửi thấy mùi thơm. Điều này thể hiện tính chất nào của thể khí?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Có thể lan tỏa trong không gian theo mọi hướng      ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Không có hình dạng xác định ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Dễ dàng bị nén vào bình         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Có thể chảy được trên mặt sàn.                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1052,
+            "name": "Đặc điểm cơ bản để phân biệt vật thể hữu sinh( vật sống) và vật thể vô sinh ( vật không sống) là:",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Vật thể vô sinh là vật thể tự nhiên, vật thể hữu sinh là vật thể nhân tạo.      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Vật thể vô sinh có các đặc điểm như trao đổi chất và năng lượng, sinh trưởng và phát triển, sinh sản, cảm ứng còn vật thể hữu sinh thì không. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Vật thể hữu sinh có  đặc điểm là luôn luôn sinh sản, còn vật thể vô sinh thì không.         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Vật thể hữu sinh có các đặc điểm như trao đổi chất và năng lượng, sinh trưởng và phát triển, sinh sản, cảm ứng còn vật thể vô sinh thì không.                          ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1051,
+            "name": "….… có hình dạng và thể tích nhất định",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Cả 3 chất rắn, lỏng, khí.      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Chất lỏng ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Chất khí         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Chất rắn                          ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1050,
+            "name": "Vật thể nhân tạo là",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Là vật sống      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Là vật thể có sẵn trong tự nhiên. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Vật thể do con người tạo ra để phục vụ cuộc sống.         ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Là vật có khả năng tự di chuyển được.                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1049,
+            "name": "Vật thể tự nhiên là",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Vật thể có sẵn trong tự nhiên      ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Vật thể do con người tạo ra  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Là vật thể đẹp hơn vật thể nhân tạo         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Là vật không sống.                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1048,
+            "name": "Phát biểu nào sau đây là đúng?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Độ lớn của lực được đo bẳng cân.      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Độ lớn của lực tác dụng lên vật được đo bằng khối lượng của vật ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Hai lực cân bằng là hai lực có độ lớn không bằng nhau.         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Độ lớn của lực được đo bằng lực kế                          ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1047,
+            "name": "Trường hợp nào dưới đây cho ta biết khi chịu tác dụng của lực thì vật vừa bị biến dạng vừa bị biến đổi chuyển động.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Gió thổi rung cành lá.      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Sau khi đập vào mặt vợt quả bóng tennis bị bật ngược trờ lại ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Một vật đang rơi từ trên cao xuống         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Khi hãm phanh xe đạp chạy chậm dần.                           ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1046,
+            "name": "Buộc một đầu dây cao su lên giá đỡ rồi treo vào đầu còn lại một vật nặng là một túi nilong đựng nước. Dựa vào dấu hiệu nào sau đây để biết túi nilong đựng nước tác dụng vào dây cao su một lực?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Túi nilong đựng nước không rơi      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Túi nilong đựng nước bị biến dạng. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Dây cao su dãn ra.         ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Cả dây cao su và túi nilong bị rơi.                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1045,
+            "name": "Một hòn đá bị ném mạnh vào một hòn đất. Lực mà hòn đá tác dụng vào đống đất: ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Chỉ làm hòn đất bị biến dạng.      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Chỉ làm biến đổi chuyển động của hòn đất. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Làm cho hòn đất bị biến dạng, đồng thời làm biến đổi chuyển động của hòn đất.         ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Không gây ra tác dụng gì cả.                           ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1044,
+            "name": "Bạn Hùng đá vào một quả bóng cao su đang nằm yên trên mặt đất làm quả bóng:",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Biến dạng      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Vừa biến dạng vừa biến đổi chuyển động ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Vẫn đứng yên         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Chỉ bị biến đổi chuyển động                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1043,
+            "name": "Từ “lực” trong câu nào dưới đây chỉ sự kéo hoặc đẩy?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Lực bất tòng tâm.      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Lực lượng vũ trang ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Học lực của bạn Hải rất tốt.         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Bạn học sinh quá yếu, không đủ lực nâng nổi một đầu bàn học.                           ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1042,
+            "name": "Khi  một quả bóng đập xuống sân bóng thì sân tác dụng lực lên quả bóng sẽ gây ra những kết quả gì?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Chỉ làm thay đổi chuyển động của quả bóng.      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Chỉ làm biến dạng quả bóng. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Vừa làm biến dạng quả bóng, vừa làm thay đổi chuyển động của nó.         ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Không làm biến dạng và cũng không làm thay đổi chuyển động của quả bóng.                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1041,
+            "name": "Quan sát sơ đồ cấu tạo tế bào thực vật và tế bào động vật dưới đây.\nThành phần nào không khác nhau ở hai loại tế bào trên?",
+            "questionTypeId": 1,
+            "image": "./image/nhan-tb-02.png",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Nhân      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Lục lạp ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Vách         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Không bào                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1040,
+            "name": "Quan sát tế bào bên và cho biết mũi tên đang chỉ vào thành phần nào của tế bào,",
+            "questionTypeId": 1,
+            "image": "./image/nhan-tb.png",
+
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Màng tế bào.       ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Vùng nhân ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Chất tế bào.          ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Nhân tế bào.                           ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1039,
+            "name": "Quan sát tế bào bên và cho biết mũi tên đang chỉ vào thành phần nào của tế bào.",
+            "questionTypeId": 1,
+            "image": "./image/nhan-te-bao.png",
+
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Màng tế bào      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Chất tế bào. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Nhân tế bào.         ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Vùng nhân                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1038,
+            "name": "Cho các phát biểu sau: \n1)\tTế bào là đơn vị cơ sở và cấu trúc của sự sống:\n2)\tHoạt động của tế bào là cơ sở mọi hoạt động sống của cơ thể.\n3)\tTế bào cấu tạo cơ thể người là tế bào nhân sơ.\n4)\tTế bào động vật, tế bào thực vật đều có khả năng lớn lên và sinh sản.\n5)\tTế bào nhân thực vật hay tế bào nhân động vật đều là tế bào nhân thực.\nCác phát biểu đúng là:\n",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "1,2,4,5      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "2,3,4,5 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " 1,3,4,5         ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "1,2,3,4                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
             "id": 1037,
             "name": "Trong cơ thể sinh vật, ba tế bào bắt đầu quá trình sinh sản để tạo nên các tế bào mới. Nếu những tế bào này đều thực hiện hai lần sinh sản liên tiếp thì sẽ tạo ra được bao nhiêu tế bào con?",
             "questionTypeId": 1,
