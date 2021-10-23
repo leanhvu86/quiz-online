@@ -1,37 +1,37 @@
 {
     "id": 4,
     "name": "Đề Khoa học tự nhiên",
-    "description": "Đề ôn tập địa kì 1- đề số 1",
-    "image": "./image/dia-li.jpg",
+    "description": "Đề ôn tập khtn 1- đề số 1",
+    "image": "./image/khtn.png",
     "questions": [
         {
             "id": 1010,
-            "name": "Kinh tuyến Tây là:",
+            "name": "Khoa học tự nhiên không bao gồm lĩnh vực nào sau đây?",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "những kinh tuyến nằm bên trái kinh tuyến gốc",
-                    "isAnswer": true
+                    "name": "Vật lý học. ",
+                    "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "những kinh tuyến nằm bên phải kinh tuyến gốc",
+                    "name": "Hóa học và sinh học.",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "những vòng tròn nằm bên trên vĩ tuyến gốc",
+                    "name": "Khoa học Trái Đất và Thiên văn học. ",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "những vòng tròn nằm bên dưới  vĩ tuyến gốc",
-                    "isAnswer": false
+                    "name": "Lịch sử loài người.",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -42,31 +42,31 @@
         },
         {
             "id": 1011,
-            "name": "Các đường vĩ tuyến có độ dài như thế nào?",
+            "name": "Theo em, việc ngiên cứu sản xuất vacxin phòng Covid 19 thể hiện vai trò nào dưới đây của khoa học tự nhiên?",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "giảm dần từ xích đạo về 2 cực",
+                    "name": "Bảo vệ sức khoẻ và cuộc sống của con người.",
                     "isAnswer": true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "Giảm dần từ cực về xích đạo",
+                    "name": "Cung cấp thông tin và nâng cao hiểu biết của con người.",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "Bằng nhau",
+                    "name": "Mở rộng sản xuất và phát triển kinh tế",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "Giảm dần từ tây sang đông",
+                    "name": "Bảo vệ môi trường. ",
                     "isAnswer": false
                 }
             ],
@@ -78,32 +78,31 @@
         },
         {
             "id": 1012,
-            "name": "Cho biết nếu vẽ các đường kinh tuyến, vĩ tuyến cách nhau 10 thì trên quả địa cầu có bao nhiêu kinh tuyến?",
+            "name": "Vật nào dưới đây là vật sống:",
             "questionTypeId": 1,
-            "image": "./image/dia-li.jpg",
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "360",
+                    "name": "Vi khuẩn",
                     "isAnswer": true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "181",
+                    "name": "Cành gỗ mục.",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "180",
+                    "name": "Hòn đá.",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "90",
+                    "name": "Cái bàn.",
                     "isAnswer": false
                 }
             ],
@@ -115,32 +114,32 @@
         },
         {
             "id": 1013,
-            "name": "Điểm A có tọa độ địa lý: A(200T, 120B). Vậy A đi qua kinh độ nào?",
+            "name": "Hoạt động nào sau đây không được xem là nghiên cứu khoa học tự nhiên?",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "3220Đ",
+                    "name": "Nghiên cứu quá trình hình thành và phát triển của động vật.",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "200T",
-                    "isAnswer": true
+                    "name": "Nghiên cứu sự lên xuống của thuỷ triều.",
+                    "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "120B",
+                    "name": "Nghiên cứu cách thức sản xuất phân bón hoá học.",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "80B",
-                    "isAnswer": false
+                    "name": "Nghiên cứu sự khác nhau giữa văn hoá Việt Nam và văn hoá Trung Quốc.",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -151,33 +150,33 @@
         },
         {
             "id": 1014,
-            "name": "Xác định hướng còn thiếu trên sơ đồ:",
+            "name": "Theo em, việc lắp ráp pin cho nhà máy điện mặt trời (hình dưới) thể hiện vai trò nào dưới đây của khoa học tự nhiên?",
             "questionTypeId": 1,
-            "image": "./image/huong.png",
+            "image": "./image/pin-mat-troi.png",
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "Tây Nam",
+                    "name": "Chăm sóc sức khoẻ con người.",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "Đông Bắc",
+                    "name": "Nâng cao khả năng hiểu biết của con người về tự nhiên.",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "Đông Nam",
+                    "name": "Hoạt động nghiên cứu khoa học.",
                     "isAnswer": true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "Đông Đông Nam",
-                    "isAnswer": false
+                    "name": "Ứng dụng công nghệ vào đời sống, sản xuất.",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -188,33 +187,32 @@
         },
         {
             "id": 1015,
-            "name": "Tỉ lệ bản đồ là gì?",
+            "name": "Hiện tượng cây mọc hướng về phía có ánh sang khi được chiếu sang từ một phía là đặc điểm nào của vật sống:",
             "questionTypeId": 1,
-            "image": "./image/dia-li.jpg",
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "Là con số qui ước trên mỗi bản đồ",
+                    "name": "Lớn lên",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "Cho biết mức độ thu nhỏ độ dài giữa các đối tượng trên bản đồ so với thực tế là bao nhiêu",
-                    "isAnswer": true
+                    "name": "Sinh sản",
+                    "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "Là một yếu tố giúp học sinh khai thác tri thức địa lí trên bản đồ",
+                    "name": "Di chuyển",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "Cho biết mức độ phóng to độ dài giữa các đối tượng trên bản đồ so với thực tế là bao nhiêu",
-                    "isAnswer": false
+                    "name": "Cảm ứng",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -225,33 +223,32 @@
         },
         {
             "id": 1016,
-            "name": "Tỉ lệ bản đồ có mấy loại?",
+            "name": "Khi dùng kính hiển vi quang học để quan sát các mẫu vật, tuỳ theo mục đích quan sát mà: ",
             "questionTypeId": 1,
-            "image": "./image/dia-li.jpg",
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "5",
-                    "isAnswer": false
+                    "name": "giữ nguyên thị kính, lựa chọn các vật kính thích hợp",
+                    "isAnswer": true
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "4",
+                    "name": "giữ nguyên thị kính và vật kính trong mọi trường hợp quan sát.",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "3",
+                    "name": "giữ nguyên vật kính, lựa chọn các thị kính thích hợp",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "2",
-                    "isAnswer": true
+                    "name": "vừa thay đổi cả vật kính và thị kính trước khi tiến hành quan sát.",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -262,32 +259,31 @@
         },
         {
             "id": 1017,
-            "name": "Hai địa điểm có khoảng cách thực tế là 25 km, thì trên bản đồ có tỉ lệ \n1 : 300 000, khoảng cách giữa hai địa điềm đó là bao nhiêu?\n",
+            "name": "Để lấy 2ml nước cất, nên sử dụng dụng cụ nào dưới đây là thích hợp nhất?",
             "questionTypeId": 1,
-            "image": "./image/dia-li.jpg",
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "8,3 cm",
-                    "isAnswer": true
+                    "name": "Cốc đong có dung tích 50ml ",
+                    "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "6,3 cm",
-                    "isAnswer": false
+                    "name": "Ống pipet có dung tích 5ml",
+                    "isAnswer": true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "9,3 cm",
+                    "name": "Ống nhỏ giọt có dung tích 1ml",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "7,3 cm",
+                    "name": "Ống nghiệm có dung tích 10ml",
                     "isAnswer": false
                 }
             ],
@@ -299,32 +295,31 @@
         },
         {
             "id": 1018,
-            "name": "Kí hiệu bản đồ dùng để:",
+            "name": "Các bước đo thể tích một hòn đá:\n1. Buộc hòn đá vào một sợi dây\n2. Cầm sợi dây, nhúng hòn đá ngập trong nước ở cốc đong, mực nước trong cốc dâng lên.\n3. Đặt cốc đong trên mặt phẳng, đổ lượng nước bằng khoảng ½ thể tích cốc, đọc và ghi lại thể tích nước.\n4. Đọc và ghi lại thể tích nước. Lấy thể tích này trừ đi thể tích nước ban đầu ta tính được thể tích hòn đá.\nThứ tự thực hiện đúng các bước là: \n",
             "questionTypeId": 1,
-            "image": "./image/dia-li.jpg",
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "Thể hiện các đối tượng địa lí trên bản đồ",
-                    "isAnswer": true
+                    "name": "1 – 2 – 3 - 4 ",
+                    "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "Xác định phương hướng trên bản đồ",
+                    "name": "1 – 4 – 3 – 2",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "Biết tỉ lệ của bản đồ",
-                    "isAnswer": false
+                    "name": "3 – 1 – 2 – 4 ",
+                    "isAnswer": true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "Xác định tọa độ địa lí trên bản đồ",
+                    "name": "3 – 4 – 2 – 1",
                     "isAnswer": false
                 }
             ],
@@ -336,32 +331,31 @@
         },
         {
             "id": 1019,
-            "name": "Để thể hiện một nhà máy trên bản đồ người ta sử dụng dạng  kí hiệu nào?",
+            "name": "Các kính lúp thông thường có khả năng phóng to ảnh của một vật:",
             "questionTypeId": 1,
-            "image": "./image/dia-li.jpg",
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "Kí hiệu đường",
+                    "name": "từ 50 lần đến 100 lần",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "Kí hiệu diện tích",
+                    "name": "từ 30 lần đến 50 lần ",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "Kí hiệu điểm",
+                    "name": "từ 3 lần đến 20 lần",
                     "isAnswer": true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "Cả ba loại trên",
+                    "name": "từ 100 lần đến 200 lần",
                     "isAnswer": false
                 }
             ],
@@ -373,32 +367,285 @@
         },
         {
             "id": 1020,
-            "name": "Kí hiệu đường trong các hình sau là:ky-hieu.png",
+            "name": "Để đo thể tích chất lỏng, em dùng dụng cụ nào dưới đây? ",
             "questionTypeId": 1,
-            "image": "./image/ky-hieu.png",
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "Kí hiệu đường",
-                    "isAnswer": false
+                    "name": "Bình chia độ",
+                    "isAnswer": true
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "Kí hiệu diện tích",
+                    "name": "Ống nghiệm.        ",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "Kí hiệu điểm",
+                    "name": "Ống nhỏ giọt. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Bình thuỷ tinh.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1021,
+            "name": "Nếu muốn quan sát gân lá, em nên sử dụng loại kính nào?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Kính hiển vi        ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Kính râm            ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Kính lúp   ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Kính cận.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1022,
+            "name": "Thao tác nào là sai khi dùng cân đồng hồ?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Đặt vật cân bằng trên đĩa cân      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Đọc kết quả khi cân khi đã ổn định         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Đặt mắt vuông góc với mặt đồng hồ  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Đặt cân trên bề mặt không bằng phẳng",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1023,
+            "name": "Để đo khối lượng của một vật ta dùng dụng cụ nào?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Thước đo.                     ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "  Kính hiển vi.                ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Cân ",
                     "isAnswer": true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "Cả ba loại trên",
+                    "name": "Kính lúp.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1024,
+            "name": "Để đo thời gian chạy ngắn 100m ta sử dụng đồng hồ nào để đo là hợp lí nhất ?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Đồng hồ đeo tay                    ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "  Đồng hồ điện tử               ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Đồng hồ bấm giây ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Đồng hồ quả lắc.                                     ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1025,
+            "name": "Đo chiều dài của chiếc bút chì theo cách nào sau đây là hợp lí nhất?",
+            "questionTypeId": 1,
+            "image": "./image/thuoc-do.png",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Đáp án A            ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Đáp án B               ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Đáp án C ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Đáp án D                                 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1026,
+            "name": "Hãy cho biết giới hạn đo và độ chia nhỏ nhất của thước kẻ trong hình sau:",
+            "questionTypeId": 1,
+            "image": "./image/thuoc-do-2.png",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Giới hạn đo là 30 cm và độ chia nhỏ nhất là 1 mm.        ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Giới hạn đo là 30 mm và độ chia nhỏ nhất là 1 mm. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Giới hạn đo là 30 cm và độ chia nhỏ nhất là 1 cm.          ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Giới hạn đo là 3 cm và độ chia nhỏ nhất là 1 mm                              ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1027,
+            "name": "1 tấn thì bằng bao nhiêu kilogam:",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "500kg      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "1000kg ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " 10000kg         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "100kg                          ",
                     "isAnswer": false
                 }
             ],
