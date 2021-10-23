@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
-import { ActionTypes } from '../constants/actionTypes';
-import { connect } from 'react-redux';
+import React, {Component} from 'react';
+import {ActionTypes} from '../constants/actionTypes';
+import {connect} from 'react-redux';
 
 const mapStateToProps = state => ({ ...state.quiz, ...state.mode, ...state.pager });
 
