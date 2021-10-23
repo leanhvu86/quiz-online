@@ -31,7 +31,7 @@ class Questions extends Component {
                 {questions.map(q =>
                     <div key={q.id}>
                         <div className="badge badge-info">Question {this.props.pager.index + 1} of {this.props.pager.count}.</div>
-                        <h3 className="font-weight-normal">{this.props.pager.index + 1}. <span>{q.name}</span></h3>
+                        <h3 className="font-weight-normal">Câu {this.props.pager.index + 1}: <pre className="pre-css">{q.name}</pre></h3>
                         <img className="image-quiz" src={q.image===undefined?standardImage:q.image} style={{border:'none',width:'50%',marginLeft:'20%',height:'auto'}} alt=""/>
                         <div className="row text-left options">
                             {

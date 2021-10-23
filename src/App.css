@@ -6,6 +6,12 @@
     margin-left: 10px;
 }
 
+.pre-css{
+    overflow-x: auto;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+
+}
 .image-quiz{
     margin-bottom: 20px;
     max-height: 300px;

@@ -38,8 +38,8 @@ class App extends Component {
         quizes: [
             // { id: 'data/javascript.json', name: 'Javascript' },
             // { id: 'data/pmone.json', name: 'PM one' },
-            // { id: 'data/aspnet.json', name: 'Asp.Net' },
             {id: 'data/lich-su.json', name: 'Lịch sử'},
+            { id: 'data/khtn.json', name: 'Khoa học tự nhiên' },
             {id: 'data/de-dia.json', name: 'Địa lý'},
             {id: 'data/cong-nghe.json', name: 'Công nghệ'}
         ],
@@ -147,7 +147,7 @@ class App extends Component {
                                 {this.state.quizes.map(q => <option key={q.id} value={q.id}>{q.name}</option>)}
                             </select>
                         </div>
-                    </div>
+                    </div> 
                 </header>
                 <Quiz quiz={this.state.quiz} quizId={this.state.quizId} mode={this.state.mode} stop={this.state.stop}/>
                 <br/>
