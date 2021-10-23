@@ -654,6 +654,370 @@
                 "name": "Multiple Choice",
                 "isActive": true
             }
+        },
+        {
+            "id": 1037,
+            "name": "Trong cơ thể sinh vật, ba tế bào bắt đầu quá trình sinh sản để tạo nên các tế bào mới. Nếu những tế bào này đều thực hiện hai lần sinh sản liên tiếp thì sẽ tạo ra được bao nhiêu tế bào con?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "24 tế bào con      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "6 tế bào con ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " 12 tế bào con         ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "3 tế bào con                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1036,
+            "name": "Hình sau đây mô tả nhiệt kế dùng chất lỏng. Làm thế nào để tăng độ nhạy của nhiệt kế này?",
+            "questionTypeId": 1,
+            "image": "./image/nhiet-ke-02.png",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Làm cho ống nhiệt kế hẹp lại.      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Khi đo phải hiệu chỉnh cẩn thận. ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Làm cho ống nhiệt kế dài hơn.         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Làm cho các vạch chia gần nhau hơn.                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1035,
+            "name": "Giới hạn đo (GHĐ) và độ chia nhỏ nhất (ĐCNN) của nhiệt kế này là bao nhiêu?",
+            "questionTypeId": 1,
+            "image": "./image/nhiet-ke.png",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "GHĐ: từ 35 độ C đến 42 độ C, ĐCNN: 0,1 độ C      ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "GHĐ: từ 35 độ C đến 60 độ C, ĐCNN: 0,1 độ C      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "GHĐ: từ 35 độ C đến 42 độ C, ĐCNN: 1 độ C      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "GHĐ: từ 38 độ C đến 42 độ C, ĐCNN: 0,1 độ C      ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1034,
+            "name": "Một trong những triệu chứng của người bị nhiễm Covid-19 là gì?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Nhiệt độ cơ thể ở 36 độ C      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": " Nhiệt độ cơ thể ở 35 độ C ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Nhiệt độ cơ thể sốt cao trên 37,5 độ C         ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Nhiệt độ cơ thể thấp hơn 36 độ C                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1033,
+            "name": "Có thể dùng nhiệt kế y tế để đo nhiệt độ nước sôi được không ? Vì sao?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Được, vì nhiệt kế để đo nhiệt độ.      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Không, vì sẽ bị bỏng tay. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Không, vì nhiệt kế y tế chỉ có giới hạn đo là 42 độ C.         ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Được, vì chất lỏng trong nhiệt kế y tế là thủy ngân.                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1032,
+            "name": "Công dụng của nhiệt kế y tế là",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "dùng để đo nhiệt độ khí quyển      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "dùng để đo nhiệt độ trong các thí nghiệm ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " dùng để đo sự nở vì nhiệt         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "dùng để đo nhiệt độ cơ thể con người                          ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1031,
+            "name": "Nhiệt kế (thường dùng) hoạt động dựa trên",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "sự nở vì nhiệt của chất khí.      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "sự nở vì nhiệt của chất lỏng. ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " sự thay đổi màu sắc của một vật theo nhiệt độ.         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "hiện tượng nóng chảy của các chất                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1030,
+            "name": "Trong thang nhiệt độ Xen-xi-ớt, nhiệt độ của hơi nước đang sôi là:",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "100 độ C.                     ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "0 độ C ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " 50 độ C         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "78 độ C                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1029,
+            "name": "Người ta sử dụng các thiết bị như hình dưới đây để đo khối lượng của 1 cm3 nước bằng cách chia khối lượng của nước cho thể tích của nó đo bẳng cm3 \n \n(1). Đổ 50 cm3 nước vào ống đong\n(2). Chia khối lượng của nước cho 50\n(3). Lấy ống đong rỗng ra khỏi cân.\n(4). Đặt ống đong rỗng lên cân\n(5). Lấy khối lượng của ống đong chứa nước trừ đi khối lượng của ống đong rỗng.\n(6). Ghi lại khối lượng của ống đong rỗng.\n(7). Ghi lại khối lượng của ống đong và nước.\n(8). Đặt lại ống đong chưa nước lên cân.\nCác phát biểu trên đây mô tả các bước thực hiện cách đo nhưng chúng không theo thứ tự, em hãy sắp xếp cho đúng các bước:\n",
+            "questionTypeId": 1,
+            "image": "./image/khtn-05.png",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "(6) – (4) – (3) – (1) – (8) – (7) – (5) – (2)                             ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "(4) – (3) – (6) – (2) – (8) – (7) – (5) – (1)   ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " (4) – (6) – (3) – (8) – (1) – (7) – (2) – (5)                                                  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "(4) – (6) – (3) – (1) – (8) – (7) – (5) – (2)                                                 ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1028,
+            "name": "Sắp xếp các bước thực hiện khi dùng nhiệt kế để đo nhiệt độ của chính cơ thể mình:\n(1) Thực hiện đo nhiệt độ\n(2) Hiệu chỉnh nhiệt kế\n(3) Ước lượng nhiệt độ\n(4) Đọc kết quả đo nhiệt độ\n(5) Chọn nhiệt kế phù hợp\n",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "2-4-3-1-5                                                    ",
+                    "isAnswer": false
+                },
+
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " 5-3-2-1-4                                                       ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "3-5-2-1-4 ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "3-5-2-4-1                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
         }
     ]
 }

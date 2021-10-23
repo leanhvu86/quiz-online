@@ -147,7 +147,7 @@ class App extends Component {
                                 {this.state.quizes.map(q => <option key={q.id} value={q.id}>{q.name}</option>)}
                             </select>
                         </div>
-                    </div> 
+                    </div>
                 </header>
                 <Quiz quiz={this.state.quiz} quizId={this.state.quizId} mode={this.state.mode} stop={this.state.stop}/>
                 <br/>
