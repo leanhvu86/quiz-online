@@ -41,6 +41,7 @@ class App extends Component {
             {id: 'data/lich-su.json', name: 'Lịch sử'},
             { id: 'data/khtn.json', name: 'Khoa học tự nhiên' },
             {id: 'data/de-dia.json', name: 'Địa lý'},
+            {id: 'data/tin-hoc.json', name: 'Tin học'},
             {id: 'data/cong-nghe.json', name: 'Công nghệ'}
         ],
         quizId: 'data/lich-su.json',
@@ -64,24 +65,8 @@ class App extends Component {
         this.startTimer = this.startTimer.bind(this);
         this.countDown = this.countDown.bind(this);
         this.startTimer();
-        this.audio = new Audio('image/squid-game-nhac-chuong.mp3')
-        this.audio.load();
-        // this.playAudio();
     }
 
-    playAudio() {
-        const audioPromise = this.audio.play();
-        if (audioPromise !== undefined) {
-            audioPromise
-                .then(_ => {
-                    // autoplay started
-                })
-                .catch(err => {
-                    // catch dom exception
-                    console.info(err)
-                })
-        }
-    }
     secondsToTime(secs) {
         let hours = Math.floor(secs / (60 * 60));
 
@@ -147,7 +132,6 @@ class App extends Component {
         this.setState({quizId: e.target.value, seconds: 1800});
         this.load(e.target.value);
         this.startTimer();
-        this.playAudio();
     }
 
     render() {
