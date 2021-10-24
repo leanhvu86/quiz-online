@@ -518,13 +518,13 @@
                     "id": 1055,
                     "questionId": 1010,
                     "name": "Là dãy những kí hiệu 0 và 1",
-                    "isAnswer": false
+                    "isAnswer": true
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
                     "name": "Là âm thanh phát ra từ máy tính",
-                    "isAnswer": true
+                    "isAnswer": false
                 },
                 {
                     "id": 1057,
@@ -1331,7 +1331,7 @@
                     "id": 1058,
                     "questionId": 1010,
                     "name": "Loa",
-                    "isAnswer": true
+                    "isAnswer": false
                 }
             ],
             "questionType": {
